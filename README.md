@@ -5,18 +5,19 @@ On my profile, you will find a variety of projects that showcase my abilities. Y
 Some of the notable contributions are:
 - [zskarte](https://github.com/zskarte/zskarte)
 - [Plantly](https://github.com/timogi/Plantly)
-- [ImageJ Macro] (https://github.com/timogi/ImageJ_SetScale_Macro)
+- [ImageJ Macro](https://github.com/timogi/ImageJ_SetScale_Macro)
 
 I have worked on projects that utilize a wide range of technologies and frameworks:
 
 <p align="center">
-  <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="100" style="margin:10px;">
-  <img src="https://cdn.svgporn.com/logos/django.svg" alt="Django" height="100" style="margin:10px;">
-  <img src="https://cdn.svgporn.com/logos/tensorflow.svg" alt="Tensorflow" height="100" style="margin:10px;">
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" height="100" style="margin:10px;">
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" height="100" style="margin:10px;">
-  <img src="https://cdn.svgporn.com/logos/angular.svg" alt="Angular" height="100" style="margin:10px;">
-  <img src="https://cdn.svgporn.com/logos/php.svg" alt="PHP" height="100" style="margin:10px;">
+  <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="100">
+  <br>
+  <img src="https://cdn.svgporn.com/logos/django.svg" alt="Django" height="100">
+  <img src="https://cdn.svgporn.com/logos/tensorflow.svg" alt="Tensorflow" height="100">
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" height="100">
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" height="100">
+  <img src="https://cdn.svgporn.com/logos/angular.svg" alt="Angular" height="100">
+  <img src="https://cdn.svgporn.com/logos/php.svg" alt="PHP" height="100">
 </p>
 
 If you have any questions or would like to discuss a project idea, feel free to reach out to me. I am always happy to collaborate and learn from others in the community. You can reach me through my [Linkedin](https://www.linkedin.com/in/tim-ogi)
