@@ -3,7 +3,7 @@
 On my profile, you will find a variety of projects that showcase my abilities. You can also check out my portfolio on my website [timogi.ch](https://timogi.ch/) where I present several of my projects. From bioinformatics tools to computer vision applications and mobile apps. One of my recent projects is a computer vision application that uses convolutional neural networks for object detection. You can read more about this project [here](https://timogi.ch/master-thesis).
 
 Some of the notable contributions are:
-- [zskarte](https://github.com/zskarte/zskarte)
+- [zskarte](https://github.com/zskarte)
 - [Plantly](https://github.com/timogi/Plantly)
 - [ImageJ Macro](https://github.com/timogi/ImageJ_SetScale_Macro)
 
