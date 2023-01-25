@@ -14,6 +14,6 @@ I have worked on projects that utilize a wide range of technologies and framewor
 | <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" height="50"> | <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" height="50"> | <img src="https://cdn.svgporn.com/logos/angular.svg" alt="Angular" height="50"> |
 | <img src="https://cdn.svgporn.com/logos/php.svg" alt="PHP" height="50"> | <img src="https://www.r-project.org/Rlogo.png" alt="R" height="50">  | <img src="https://cdn.svgporn.com/logos/swift.svg" alt="Swift" height="50"> |
 
-If you have any questions or would like to discuss a project idea, feel free to reach out to me. I am always happy to collaborate and learn from others in the community. You can reach me through my [Linkedin](https://www.linkedin.com/in/tim-ogi)
+If you have any questions or would like to discuss a project idea, feel free to reach out to me. I am always happy to collaborate and learn from others in the community. You can reach me through my [Linkedin](https://www.linkedin.com/in/tim-ogi).
 
 Thank you for visiting my profile!
